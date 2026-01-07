@@ -1,0 +1,5 @@
+{
+  "name": "Interview Intel",
+  "description": "A deep-research agent that extracts real interview questions for specific roles and companies from platforms like Glassdoor, GeeksforGeeks, and AmbitionBox using real-time search grounding.",
+  "requestFramePermissions": []
+}
